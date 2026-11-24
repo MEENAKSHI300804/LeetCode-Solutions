@@ -1,33 +1,42 @@
 # LeetCode Solutions in Python
 
-A collection of my LeetCode practice solutions written in **Python**. This repository documents my progress in Data Structures and Algorithms and helps me strengthen problem-solving skills.
+A collection of my LeetCode solutions implemented in **Python**. This repository documents my journey in Data Structures and Algorithms, focusing on problem-solving, understanding algorithms, and improving coding efficiency.
 
 ## 📂 Topics Covered
 
 | Topic | Problems |
 |---|---|
-| **Arrays** | [Two Sum](Arrays/Two_Sum.py) · [3Sum](Arrays/3Sum.py) · [Remove Element](Arrays/remove_element.py) · [Remove Duplicates from Sorted Array](Arrays/Remove_Duplicates_from_Sorted_Array) · [Search Insert Position](Arrays/Search_insert_Position.py) · [Divide Two Integers](Arrays/Divide_Two_integers.py) · [Longest Common Prefix](Arrays/Longest_Prefix_Common.py) |
+| **Arrays** | [Two Sum](Arrays/Two_Sum.py) · [3Sum](Arrays/3Sum.py) · [Remove Element](Arrays/remove_element.py) · [Remove Duplicates from Sorted Array](Arrays/Remove_Duplicates_from_Sorted_Array.py) · [Search Insert Position](Arrays/Search_insert_Position.py) · [Divide Two Integers](Arrays/Divide_Two_integers.py) · [Longest Common Prefix](Arrays/Longest_Prefix_Common.py) |
+| **Bit Manipulation** | [Divide Two Integers](Bit_Manipulation/Divide_Two_integers.py) |
 | **Linked Lists** | [Merge Two Sorted Lists](Linked_List/Merge_two_sorted_list.py) |
 | **Math** | [Palindrome Number](Math/Palindrome.py) · [Reverse Integer](Math/Reversing_number.py) |
 | **Stacks** | [Valid Parentheses](Stack/Valid_parentheses.py) |
 | **Strings** | [Length of Last Word](Strings/Length_of_the_last_word.py) · [Roman to Integer](Strings/Roman_to_Integer.py) |
 
-## 🧠 What I'm Practising
+## 🧠 Concepts Practised
 
-- Arrays and strings
-- Linked lists
+- Arrays and Strings
+- Linked Lists
 - Stack
 - Mathematics
-- Bit manipulation
-- Problem-solving using Python
+- Bit Manipulation
+- Linear Search and Binary Search
+- Problem-solving and algorithm optimization
 
-## 💻 Language
+## 💻 Language and Tools
 
-- Python
+- **Language:** Python
+- **IDE:** Visual Studio Code
+- **Platform:** LeetCode
+- **Version Control:** Git and GitHub
 
-## 🎯 Goal
+## 🎯 Goals
 
-To consistently practise Data Structures and Algorithms, understand different approaches, and improve my problem-solving and coding skills.
+- Strengthen Data Structures and Algorithms fundamentals.
+- Explore multiple approaches to solve problems.
+- Understand time and space complexity.
+- Improve coding efficiency and logical thinking.
+- Maintain consistent problem-solving practice.
 
 ## 📌 Repository Structure
 
